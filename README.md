@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **Cryptic Nebula**
 
-- 📝 I regularly write articles on [secret](secret)
-
 - 💬 Ask me about **Coding and etc**
 
 - 📫 How to reach me **m.dimco.554902@umindanao.edu.ph**
