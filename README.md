@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Coding and etc**
 
-- 📫 How to reach me **home**
+- 📫 How to reach me **m.dimco.554902@umindanao.edu.ph**
 
 - 📄 Know about my experiences [none](none)
 
