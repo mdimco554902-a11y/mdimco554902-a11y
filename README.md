@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="mdimco554902-a11y" /> </p>
 
-- 🔭 I’m currently working on **Shawarma**
+- 🔭 I’m currently working on **University of Mindanao**
 
 - 🌱 I’m currently learning **Python**
 
@@ -11,13 +11,11 @@
 
 - 🤝 I’m looking for help with **Cryptic Nebula**
 
-- 👨‍💻 All of my projects are available at [tokyo](tokyo)
-
 - 📝 I regularly write articles on [secret](secret)
 
 - 💬 Ask me about **Coding and etc**
 
-- 📫 How to reach me **home**
+- 📫 How to reach me **m.dimco.554902@umindanao.edu.ph**
 
 - 📄 Know about my experiences [none](none)
 
