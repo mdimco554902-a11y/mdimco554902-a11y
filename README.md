@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-2E6EB6?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
-  <a href="https://github.com/mlchrypdmco"><img src="https://img.shields.io/badge/GITHUB-mlchrypdmco-0F253D?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
+  <a href="https://github.com/mdimco554902-a11y"><img src="https://img.shields.io/badge/GITHUB-mlchrypdmco-0F253D?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
 </p>
 
 ---
