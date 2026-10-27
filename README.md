@@ -41,7 +41,7 @@
 | 📫 Reach me at | **m.dimco.554902@umindanao.edu.ph** |
 | ⚡ Fun fact | **I am friendly** |
 
-### 🪄 Tools of the Trade
+### 🪄 Tech Stack
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/> </a>&nbsp;&nbsp;
