@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E6FB8,100:7EC8E3&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
+  <img src="banner.png" width="100%" alt="A blue-haired hero standing on a flower hill under a wide blue sky" />
 </p>
+
+<h1 align="center">Melchor Y. Dimco</h1>
+<h3 align="center">Frontend Developer | Philippines ☁️</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Frontend+Developer+from+the+Philippines;Currently+learning+Python;Building+slowly%2C+learning+deeply;One+project+at+a+time%2C+one+step+forward" alt="Typing" /></a>
