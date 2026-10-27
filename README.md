@@ -44,11 +44,15 @@
 ### 🪄 Tools of the Trade
 
 <p align="center">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb/EDE6D6" alt="mariadb" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github/EDE6D6" alt="github" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="48" height="48"/> </a>
 </p>
-<p align="center"><sub>Git &nbsp;•&nbsp; MariaDB &nbsp;•&nbsp; Python</sub></p>
+<p align="center"><sub>VS Code &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Dart &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; Figma &nbsp;•&nbsp; Firebase</sub></p>
 
 ### 📊 Journey in Numbers
 
