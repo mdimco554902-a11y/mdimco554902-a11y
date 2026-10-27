@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0F253D,50:2E6EB6,100:87CEEB&height=200&section=header&text=Melchor%20Y.%20Dimco&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=62&descSize=16&animation=fadeIn" alt="Melchor Y. Dimco" />
+  <img src="banner.gif" width="100%" alt="Melchor Y. Dimco - Frontend Developer | Philippines" />
 </p>
 
 <p align="center">
