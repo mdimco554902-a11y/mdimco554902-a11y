@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34017509/README.md)
-<div align="center">
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2A22,100:2E5E4E&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=EDE6D6&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=C9A86A&center=true&vCenter=true&width=650&lines=Frontend+Developer+from+the+Philippines;Currently+learning+Python;Building+slowly%2C+learning+deeply;One+project+at+a+time%2C+one+step+forward)](https://git.io/typing-svg)
