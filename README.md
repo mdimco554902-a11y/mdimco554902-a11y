@@ -13,6 +13,7 @@
 <p align="center">
   <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-2E6EB6?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
   <a href="https://github.com/mdimco554902-a11y"><img src="https://img.shields.io/badge/GITHUB-mdimco554902--a11y-0F253D?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
+  <a href="tel:+639293134029"><img src="https://img.shields.io/badge/PHONE-09293134029-87CEEB?style=for-the-badge&logoColor=0F253D" alt="PHONE" /></a>
 </p>
 
 ---
@@ -39,6 +40,7 @@
 | 📘 Currently learning | **Python** |
 | 👯 Open to collaborating on | **Alexandee, Lee** |
 | 📫 Reach me at | **m.dimco.554902@umindanao.edu.ph** |
+| 📞 Contact | **09293134029** |
 | ⚡ Fun fact | **I am friendly** |
 
 ### 🪄 Tools of the Trade
