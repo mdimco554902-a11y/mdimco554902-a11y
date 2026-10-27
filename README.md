@@ -37,9 +37,7 @@
 |---|---|
 | 🎓 Currently at | **University of Mindanao** |
 | 📘 Currently learning | **Python** |
-| 👯 Open to collaborating on | **Alexandee, Lee** |
 | 📫 Reach me at | **m.dimco.554902@umindanao.edu.ph** |
-| ⚡ Fun fact | **I am friendly** |
 
 ### 🪄 Tech Stack
 
