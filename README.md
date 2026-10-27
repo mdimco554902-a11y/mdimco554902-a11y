@@ -36,7 +36,6 @@
 | | |
 |---|---|
 | 🎓 Currently at | **University of Mindanao** |
-| 📘 Currently learning | **Python** |
 | 📫 Reach me at | **m.dimco.554902@umindanao.edu.ph** |
 
 ### 🪄 Tech Stack
