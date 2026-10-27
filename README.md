@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34016973/README.md)
+[README.md](https://github.com/user-attachments/files/34017509/README.md)
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2A22,100:2E5E4E&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=EDE6D6&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn)
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/mariadb/EDE6D6" alt="mariadb" width="48" height="48"/> </a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
 </p>
 <p align="center"><sub>Git &nbsp;•&nbsp; MariaDB &nbsp;•&nbsp; Python</sub></p>
