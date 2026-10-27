@@ -1,32 +1,51 @@
-<h1 align="center">Hi 👋, I'm Melchor Y. Dimco</h1>
-<h3 align="center">A passionate frontend developer from the Philippines 🌿</h3>
+<div align="center">
+!Header
+[!Typing SVG](https://git.io/typing-svg)
+<img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=2E5E4E&style=flat" alt="Profile views" />
+[!EMAIL](mailto:m.dimco.554902@umindanao.edu.ph)
+[!GITHUB](https://github.com/mdimco554902-a11y)
+</div>
 
+🧭 Traveler's Log
+{
+  "name": "Melchor Y. Dimco",
+  "role": "Frontend Developer",
+  "location": "Philippines",
+  "currently": "University of Mindanao",
+  "learning": "Python",
+  "focus": "Clean interfaces, steady progress",
+  "motto": "Not in a rush — just keep walking, keep learning"
+}
+🌿 On the Path Right Now
+
+
+🎓 Currently at
+University of Mindanao
+🌱 Currently learning
+Python
+👯 Open to collaborating on
+Alexandee, Lee
+📫 Reach me at
+m.dimco.554902@umindanao.edu.ph
+⚡ Fun fact
+I am friendly
+🪄 Tools of the Trade
 <p align="center">
-  <i>"Like Frieren, I believe great journeys are built slowly — one spell, one project, one lesson at a time."</i>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="48" height="48"/> </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/> </a>
+</p>
+<p align="center"><sub>Git &nbsp;•&nbsp; MariaDB &nbsp;•&nbsp; Python</sub></p>
+📊 Journey in Numbers
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdimco554902-a11y&show_icons=true&locale=en&bg_color=0F1E1A&title_color=C9A86A&icon_color=8FB996&text_color=EDE6D6&border_color=2E5E4E" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimco554902-a11y&show_icons=true&locale=en&layout=compact&bg_color=0F1E1A&title_color=C9A86A&text_color=EDE6D6&border_color=2E5E4E" alt="Top languages" />
+</p>
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimco554902-a11y&background=0F1E1A&ring=8FB996&fire=C9A86A&currStreakNum=EDE6D6&sideNums=EDE6D6&currStreakLabel=8FB996&sideLabels=8FB996&dates=EDE6D6&border=2E5E4E" alt="GitHub streak" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=0e75b6&style=flat" alt="mdimco554902-a11y" /> </p>
-
----
-
-### 🌿 About Me
-
-- 🎓 Currently at **University of Mindanao**
-- 🌱 Currently learning **Python**
-- 👯 Open to collaborating on **Alexandee, Lee**
-- 📫 Reach me at **m.dimco.554902@umindanao.edu.ph**
-- ⚡ Fun fact: **I am friendly**
-
-### 🪄 Languages and Tools
-
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimco554902-a11y&show_icons=true&locale=en&layout=compact" alt="mdimco554902-a11y" />
+  <i>"A journey isn't measured by how fast you arrive, but by what you notice along the way — the light through the trees, the people you meet, and the small things you finally get right."</i>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdimco554902-a11y&" alt="mdimco554902-a11y" />
-</p>
+<p align="center">🌿 Thanks for stopping by — may your own journey be steady and bright. ✨</p>
