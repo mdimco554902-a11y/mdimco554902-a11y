@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F253D,50:2E6EB6,100:87CEEB&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=EDE6D6&fontAlignY=36&desc=Full Stackd%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F253D,50:2E6EB6,100:87CEEB&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=EDE6D6&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+the+Philippines;Currently+learning+Python;Building+slowly%2C+learning+deeply;One+project+at+a+time%2C+one+step+forward" alt="Typing" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Frontend+Developer+from+the+Philippines;Currently+learning+Python;Building+slowly%2C+learning+deeply;One+project+at+a+time%2C+one+step+forward" alt="Typing" /></a>
 </p>
 
 <p align="center">
@@ -36,9 +36,12 @@
 | | |
 |---|---|
 | 🎓 Currently at | **University of Mindanao** |
+| 📘 Currently learning | **Python** |
+| 👯 Open to collaborating on | **Alexandee, Lee** |
 | 📫 Reach me at | **m.dimco.554902@umindanao.edu.ph** |
+| ⚡ Fun fact | **I am friendly** |
 
-### 🪄 Tech Stack
+### 🪄 Tools of the Trade
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/> </a>&nbsp;&nbsp;
