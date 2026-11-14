@@ -3,26 +3,26 @@
 </p>
 
 <p align="center">
-  <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/mdimco554902-a11y"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/mdimco554902-a11y/Dimco-Portfolio"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=111111&style=flat-square" alt="Profile views" />
+  <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/mdimco554902-a11y"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/mdimco554902-a11y/Dimco-Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=000000&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-## About
+<h2 align="center">About</h2>
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="70%" valign="middle">
       <p><b>Melchor Y. Dimco</b> — Full Stack Developer based in the Philippines.</p>
       <p>I build clean, reliable web and mobile applications, with a focus on clear interfaces, responsive layouts, and well-structured code.</p>
       <p><b>Education:</b> University of Mindanao<br />
       <b>Location:</b> Philippines<br />
       <b>Focus:</b> Flutter and Dart, web development, and Firebase-backed applications</p>
     </td>
-    <td width="30%">
+    <td width="30%" valign="middle">
       <img width="100%" src="https://raw.githubusercontent.com/mdimco554902-a11y/mdimco554902-a11y/main/about-fallen-angel.png" alt="Falling winged figure in a black sky with clouds" />
     </td>
   </tr>
@@ -30,29 +30,39 @@
 
 ---
 
-## Technologies
+<h2 align="center">Technologies</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Flutter-000000?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-000000?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/mdimco554902-a11y/Dimco-Portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdimco554902-a11y&repo=Dimco-Portfolio&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Dimco-Portfolio" /></a>
+  <a href="https://github.com/mdimco554902-a11y/MWorld"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdimco554902-a11y&repo=MWorld&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="MWorld" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mdimco554902-a11y/CTrack"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdimco554902-a11y&repo=CTrack&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="CTrack" /></a>
+</p>
 
 ### Dimco-Portfolio
 
 My personal portfolio website — all of my work in one place, with MWorld and CTrack featured first.
+**Tech:** HTML, CSS, JavaScript
 **Repository:** https://github.com/mdimco554902-a11y/Dimco-Portfolio
 
 ### MWorld
@@ -67,29 +77,31 @@ My personal portfolio website — all of my work in one place, with MWorld and C
 **Tech:** Flutter, Dart, Riverpod
 **Repository:** https://github.com/mdimco554902-a11y/CTrack
 
-See all of my projects on GitHub: https://github.com/mdimco554902-a11y
+<p align="center">See all of my projects on GitHub: <a href="https://github.com/mdimco554902-a11y">mdimco554902-a11y</a></p>
 
 ---
 
-## Statistics
+<h2 align="center">Statistics</h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdimco554902-a11y&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimco554902-a11y&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdimco554902-a11y&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimco554902-a11y&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimco554902-a11y&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" alt="GitHub streak" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimco554902-a11y&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdimco554902-a11y&bg_color=0d1117&color=c9d1d9&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mdimco554902-a11y&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
 </p>
 
 ---
 
-## Contact
+<h2 align="center">Contact</h2>
 
-- **Email:** m.dimco.554902@umindanao.edu.ph
-- **GitHub:** https://github.com/mdimco554902-a11y
-- **Portfolio:** https://github.com/mdimco554902-a11y/Dimco-Portfolio
+<p align="center">
+  <a href="mailto:m.dimco.554902@umindanao.edu.ph">m.dimco.554902@umindanao.edu.ph</a> ·
+  <a href="https://github.com/mdimco554902-a11y">GitHub</a> ·
+  <a href="https://github.com/mdimco554902-a11y/Dimco-Portfolio">Portfolio</a>
+</p>
