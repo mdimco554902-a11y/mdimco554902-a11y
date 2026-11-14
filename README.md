@@ -1,7 +1,5 @@
-[README-dark-minimalist.md](https://github.com/user-attachments/files/34851606/README-dark-minimalist.md)
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/mdimco554902-a11y/mdimco554902-a11y/main/banner-dark-minimalist.png" alt="Melchor Y. Dimco — Full Stack Developer" />
-</p>
+[README-dark-minimalist.md](https://github.com/user-attachments/files/34851633/README-dark-minimalist.md)
+<h1 align="center">Melchor Y. Dimco</h1>
 
 <p align="center">Full Stack Developer · Philippines</p>
 
