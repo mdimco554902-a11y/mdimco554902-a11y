@@ -1,74 +1,130 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F253D,50:2E6EB6,100:87CEEB&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=52&fontColor=EDE6D6&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Philippines&descAlignY=60&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
-</p>
+<h1 align="center">Dimco Portfolio</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=87CEEB&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+from+the+Philippines;Currently+learning+Python;Building+slowly%2C+learning+deeply;One+project+at+a+time%2C+one+step+forward" alt="Typing" /></a>
-</p>
+<p align="center">Personal portfolio website of Melchor Y. Dimco — Full Stack Developer from the Philippines.</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdimco554902-a11y&label=Profile%20views&color=2E6EB6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-2E6EB6?style=for-the-badge&logo=gmail&logoColor=white" alt="EMAIL" /></a>
-  <a href="https://github.com/mdimco554902-a11y"><img src="https://img.shields.io/badge/GITHUB-mdimco554902--a11y-0F253D?style=for-the-badge&logo=github&logoColor=white" alt="GITHUB" /></a>
-</p>
+<p align="center"><i>Not in a rush — just keep walking, keep learning.</i></p>
 
 ---
 
-### 🧭 Traveler's Log
+## About Me
 
-```json
-{
-  "name": "Melchor Y. Dimco",
-  "role": "Full Stack Developer",
-  "location": "Philippines",
-  "currently": "University of Mindanao",
-  "learning": "Python",
-  "focus": "Clean interfaces, steady progress",
-  "motto": "Not in a rush — just keep walking, keep learning"
-}
+- **Name:** Melchor Y. Dimco
+- **Role:** Full Stack Developer
+- **Location:** Philippines
+- **Currently at:** University of Mindanao
+- **Currently learning:** Python
+- **Focus:** Clean interfaces, steady progress
+- **Open to collaborating on:** Alexandee, Lee
+- **Contact:** m.dimco.554902@umindanao.edu.ph
+- **GitHub:** https://github.com/mdimco554902-a11y
+
+## What This Portfolio Shows
+
+- **Hero** — a clean introduction with my name, role, and intro
+- **About** — my background, details, and journey so far
+- **Skills** — the tools and technologies I use
+- **All My Works** — every project I have made, with MWorld and CTrack featured first
+- **Journey** — my experience and education as a timeline
+- **Contact** — how to reach me
+
+## Featured Projects
+
+### 1. MWorld — Featured, Recent
+
+**Mythril World** — an indestructible, high-altitude training crucible where mages and warriors can unleash powerful spells without wrecking the fragile mortal realm.
+
+Inside MWorld, **Brawl Arena** is a 2D top-down brawler prototype with a cozy high-fantasy feel: forests, elves, mages, and arena trials.
+
+**Features:**
+
+- Landing screen with Play, Settings, and About
+- Avatar picker with a brawler callsign
+- Map selection
+- Loadouts: Sword, Bow, and Bomb
+- Bot difficulty: Easy, Normal, and Hard
+- Top-down arena combat at 60 FPS
+- Virtual joystick and keyboard WASD controls at the same time
+- Attack-blocking obstacles like ruined cars, barricades, crates, and walls
+- Weapon-tailored stats, flying arrows, timed bomb detonations, and melee slash arcs
+- Floating health bars and real-time victory and defeat tracking
+
+**Tech:** Flutter, Dart, Provider, MVC-style structure, Google Fonts, Cupertino Icons, SharedPreferences
+**Platforms:** Android, iOS, Web, Windows, Linux, and macOS
+**Status:** In active development as a playable prototype
+**Repository:** https://github.com/mdimco554902-a11y/MWorld
+
+### 2. CTrack — Featured, Recent
+
+**Nutrition and Macro Tracker** — an intuitive tracker designed to take the guesswork out of daily nutrition.
+
+Track calories, scale portions in grams, balance protein, carbs, and fats, and work toward a personalized daily calorie goal.
+
+**Features:**
+
+- Today's overview with calories remaining and protein, carbs, and fats against targets
+- Log meals under Breakfast, Lunch, Dinner, or Snack
+- Search for food and add it to a meal
+- Scale portions in grams
+- Quick-add calories
+- Edit or delete a logged meal, with undo after deleting
+- Move between days, pick a date, or jump back to today
+- Adjust the daily calorie goal
+- Switch between light and dark themes
+- Read in-app instructions
+
+**Tech:** Flutter, Dart, Riverpod for state management, Cupertino Icons, light and dark themes, responsive layout
+**Platforms:** Android, iOS, Web, Windows, Linux, and macOS
+**Status:** In active development, using a mock food repository. Calorie and macro figures are estimates for everyday tracking, not medical advice.
+**Repository:** https://github.com/mdimco554902-a11y/CTrack
+
+### More Works
+
+See all of my projects on GitHub: https://github.com/mdimco554902-a11y
+
+## Design
+
+This README uses a dark minimalist style, to match my GitHub profile.
+
+The portfolio site itself uses a green, forest-like theme:
+
+- Deep forest, moss, and sage greens
+- Warm cream and parchment backgrounds
+- Sunlight gold for small accents
+- Falling leaves, sunlight through leaves, a glowing moss journey trail, and fireflies at night
+- Smooth, lightweight animations using CSS and SVG only — no heavy video or 3D effects
+- Fully responsive on mobile, tablet, and desktop
+
+The theme is visual style and atmosphere only. The portfolio itself is about me and my work.
+
+## Tools I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python — learning" />
+</p>
+
+## How to View This Portfolio Locally
+
+```bash
+git clone https://github.com/mdimco554902-a11y/Dimco-Portfolio.git
+cd Dimco-Portfolio
 ```
 
-### ☁️ On the Path Right Now
+Then open the site's main page in your browser.
 
-| | |
-|---|---|
-| 🎓 Currently at | **University of Mindanao** |
-| 📘 Currently learning | **Python** |
-| 👯 Open to collaborating on | **Alexandee, Lee** |
-| 📫 Reach me at | **m.dimco.554902@umindanao.edu.ph** |
-| ⚡ Fun fact | **I am friendly** |
+## Live Site
 
-### 🪄 Tools of the Trade
+If GitHub Pages is enabled for this repository from the `main` branch, the site will be available at:
 
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github/EDE6D6" alt="github" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="48" height="48"/> </a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="48" height="48"/> </a>
-</p>
-<p align="center"><sub>VS Code &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Dart &nbsp;•&nbsp; HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; Figma &nbsp;•&nbsp; Firebase</sub></p>
+**https://mdimco554902-a11y.github.io/Dimco-Portfolio/**
 
-### 📊 Journey in Numbers
+## Contact
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mdimco554902-a11y&show_icons=true&locale=en&bg_color=0F253D&title_color=87CEEB&icon_color=FFD166&text_color=EAF4FF&border_color=5B9BD5" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdimco554902-a11y&show_icons=true&locale=en&layout=compact&bg_color=0F253D&title_color=87CEEB&text_color=EAF4FF&border_color=5B9BD5" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdimco554902-a11y&background=0F253D&ring=87CEEB&fire=FFD166&currStreakNum=FFFFFF&sideNums=EAF4FF&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=EAF4FF&border=5B9BD5" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <i>"A journey isn't measured by how fast you arrive, but by what you notice along the way — the light through the trees, the people you meet, and the small things you finally get right."</i>
-</p>
-
-<p align="center">☁️ Thanks for stopping by — may your own journey be steady and bright. ✨</p>
+- **Email:** m.dimco.554902@umindanao.edu.ph
+- **GitHub:** https://github.com/mdimco554902-a11y
