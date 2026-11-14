@@ -1,4 +1,4 @@
-<p align="center">
+[README-dark-aesthetic-full.md](https://github.com/user-attachments/files/34852421/README-dark-aesthetic-full.md)<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Philippines&descAlignY=65&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
 </p>
 
@@ -20,7 +20,10 @@
       <p>I build clean, reliable web and mobile applications, with a focus on clear interfaces, responsive layouts, and well-structured code.</p>
       <p><b>Education:</b> University of Mindanao<br />
       <b>Location:</b> Philippines<br />
-      <b>Focus:</b> Flutter and Dart, web development, and Firebase-backed applications</p>
+      <b>Focus:</b> Flutter and Dart, web development, and Firebase-backed applications<br />
+      <b>Currently:</b> Building Flutter apps and web projects<br />
+      <b>Interests:</b> Mobile and web development, clean UI, and responsive design<br />
+      <b>Tools:</b> VS Code, GitHub, Figma, Firebase</p>
     </td>
     <td width="30%" valign="middle">
       <img width="100%" src="https://raw.githubusercontent.com/mdimco554902-a11y/mdimco554902-a11y/main/about-fallen-angel.png" alt="Falling winged figure in a black sky with clouds" />
@@ -48,27 +51,13 @@
 
 ---
 
-<h2 align="center">Featured Projects</h2>
+<h2 align="center">What I Do</h2>
 
-### Dimco-Portfolio
+- **Mobile Development** — Flutter and Dart apps, with clean interfaces and responsive layouts
+- **Web Development** — HTML, CSS, and JavaScript websites
+- **Backend & Data** — Firebase-backed apps, SQL, C#, and Python
 
-My personal portfolio website — all of my work in one place, with MWorld and CTrack featured first.
-**Tech:** HTML, CSS, JavaScript
-**Repository:** https://github.com/mdimco554902-a11y/Dimco-Portfolio
-
-### MWorld
-
-**Mythril World** — a high-altitude training crucible where mages and warriors can unleash powerful spells without damaging the mortal realm. Inside it, **Brawl Arena** is a 2D top-down brawler prototype with a landing screen, avatar picker, map selection, Sword / Bow / Bomb loadouts, Easy / Normal / Hard bots, and 60 FPS arena combat.
-**Tech:** Flutter, Dart, Provider
-**Repository:** https://github.com/mdimco554902-a11y/MWorld
-
-### CTrack
-
-**Nutrition and Macro Tracker** — track calories, scale portions in grams, balance protein, carbs and fats, and work toward a personalized daily calorie goal. Log meals, search food, move between days, and adjust your daily goal.
-**Tech:** Flutter, Dart, Riverpod
-**Repository:** https://github.com/mdimco554902-a11y/CTrack
-
-<p align="center">See all of my projects on GitHub: <a href="https://github.com/mdimco554902-a11y">mdimco554902-a11y</a></p>
+<p align="center">All my work is on GitHub: <a href="https://github.com/mdimco554902-a11y?tab=repositories">github.com/mdimco554902-a11y</a></p>
 
 ---
 
