@@ -50,15 +50,6 @@
 
 <h2 align="center">Featured Projects</h2>
 
-<p align="center">
-  <a href="https://github.com/mdimco554902-a11y/Dimco-Portfolio"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdimco554902-a11y&repo=Dimco-Portfolio&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="Dimco-Portfolio" /></a>
-  <a href="https://github.com/mdimco554902-a11y/MWorld"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdimco554902-a11y&repo=MWorld&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="MWorld" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/mdimco554902-a11y/CTrack"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mdimco554902-a11y&repo=CTrack&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" alt="CTrack" /></a>
-</p>
-
 ### Dimco-Portfolio
 
 My personal portfolio website — all of my work in one place, with MWorld and CTrack featured first.
