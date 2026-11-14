@@ -1,4 +1,3 @@
-[README-dark-minimalist.md](https://github.com/user-attachments/files/34851633/README-dark-minimalist.md)
 <h1 align="center">Melchor Y. Dimco</h1>
 
 <p align="center">Full Stack Developer · Philippines</p>
