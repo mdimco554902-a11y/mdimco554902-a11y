@@ -1,6 +1,6 @@
-<h1 align="center">Melchor Y. Dimco</h1>
-
-<p align="center">Full Stack Developer · Philippines</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=220&section=header&text=Melchor%20Y.%20Dimco&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Philippines&descAlignY=65&descSize=18&animation=fadeIn" alt="Melchor Y. Dimco" />
+</p>
 
 <p align="center">
   <a href="mailto:m.dimco.554902@umindanao.edu.ph"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -11,20 +11,19 @@
 
 ---
 
-## About me
+## About
 
 <table>
   <tr>
     <td width="70%">
-      <p>Hello, I'm <b>Melchor Y. Dimco</b> — a Full Stack Developer from the Philippines.</p>
-      <p>Studying at the University of Mindanao, currently learning Python, and building with Dart, HTML, CSS and Firebase. Building slowly, learning deeply — one project at a time.</p>
-      <p>🎓 Studying at the University of Mindanao<br />
-      📘 Currently learning Python<br />
-      👯 Open to collaborating on Alexandee, Lee<br />
-      ⚡ Fun fact: I am friendly</p>
+      <p><b>Melchor Y. Dimco</b> — Full Stack Developer based in the Philippines.</p>
+      <p>I build clean, reliable web and mobile applications, with a focus on clear interfaces, responsive layouts, and well-structured code.</p>
+      <p><b>Education:</b> University of Mindanao<br />
+      <b>Location:</b> Philippines<br />
+      <b>Focus:</b> Flutter and Dart, web development, and Firebase-backed applications</p>
     </td>
     <td width="30%">
-      <img width="100%" src="https://raw.githubusercontent.com/mdimco554902-a11y/mdimco554902-a11y/main/about-dark-aesthetic.png" alt="Astronaut floating in dark space" />
+      <img width="100%" src="https://raw.githubusercontent.com/mdimco554902-a11y/mdimco554902-a11y/main/about-fallen-angel.png" alt="Falling winged figure in a black sky with clouds" />
     </td>
   </tr>
 </table>
@@ -53,12 +52,12 @@
 
 ### Dimco-Portfolio
 
-My personal portfolio website — all my works in one place, with MWorld and CTrack featured first.
+My personal portfolio website — all of my work in one place, with MWorld and CTrack featured first.
 **Repository:** https://github.com/mdimco554902-a11y/Dimco-Portfolio
 
 ### MWorld
 
-**Mythril World** — an indestructible, high-altitude training crucible where mages and warriors can unleash powerful spells without wrecking the fragile mortal realm. Inside it, **Brawl Arena** is a 2D top-down brawler prototype with landing screen, avatar picker, map selection, Sword / Bow / Bomb loadouts, Easy / Normal / Hard bots, and 60 FPS arena combat.
+**Mythril World** — a high-altitude training crucible where mages and warriors can unleash powerful spells without damaging the mortal realm. Inside it, **Brawl Arena** is a 2D top-down brawler prototype with a landing screen, avatar picker, map selection, Sword / Bow / Bomb loadouts, Easy / Normal / Hard bots, and 60 FPS arena combat.
 **Tech:** Flutter, Dart, Provider
 **Repository:** https://github.com/mdimco554902-a11y/MWorld
 
@@ -89,6 +88,8 @@ See all of my projects on GitHub: https://github.com/mdimco554902-a11y
 
 ---
 
-<p align="center">
-  <i>Not in a rush — just keep walking, keep learning.</i>
-</p>
+## Contact
+
+- **Email:** m.dimco.554902@umindanao.edu.ph
+- **GitHub:** https://github.com/mdimco554902-a11y
+- **Portfolio:** https://github.com/mdimco554902-a11y/Dimco-Portfolio
